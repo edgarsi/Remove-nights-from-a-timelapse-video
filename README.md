@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edgarsi/Remove-nights-from-a-timelapse-video/blob/main/Remove%20nights%20from%20timelapse.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edgarsi/Remove-nights-from-a-timelapse-video/blob/main/Remove_nights_from_timelapse.ipynb)
